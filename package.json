@@ -21,11 +21,26 @@
     }
   },
   "configSchema": {
-    "showAll": {
+    "threshold": {
       "order": 1,
+      "type": "integer",
+      "title": "Threshold",
+      "description": "Hide markers if count exceeds this value. Zero means no limit.",
+      "minimum": 0,
+      "default": 0
+    },
+    "showAll": {
+      "order": 2,
       "type": "boolean",
       "title": "Show all cursors",
       "description": "Display all cursors or only the last one.",
+      "default": true
+    },
+    "inactiveShow": {
+      "order": 3,
+      "type": "boolean",
+      "title": "Show in inactive editors",
+      "description": "Display cursor markers in editors that are not currently focused.",
       "default": true
     }
   }
