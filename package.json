@@ -1,6 +1,6 @@
 {
   "name": "scrollmap-cursors",
-  "description": "Cursor position markers for scrollmap",
+  "description": "Show cursor positions on the scrollbar",
   "repository": "https://github.com/asiloisad/pulsar-scrollmap-cursors",
   "keywords": [
     "scrollmap",
