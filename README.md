@@ -6,7 +6,7 @@ Show cursor positions on the scrollbar.
 
 To install `scrollmap-cursors` search for [scrollmap-cursors](https://web.pulsar-edit.dev/packages/scrollmap-cursors) in the Install pane of the Pulsar settings or run `ppm install scrollmap-cursors`. Alternatively, you can run `ppm install asiloisad/pulsar-scrollmap-cursors` to install a package directly from the GitHub repository.
 
-Layer package for [scrollmap](https://github.com/asiloisad/pulsar-scrollmap).
+Layer package for [scrollmap](https://github.com/asiloisad-pulsar/scrollmap).
 
 ## Contributing
 
